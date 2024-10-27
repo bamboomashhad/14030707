@@ -1,0 +1,23 @@
+https://478a9f2a-0d66-4035-a797-06e9c83c6739.3869fe04-6fcd-4ad4-a8f4-40582f4fa0c4.giize.com/bamboo14030706.bamboomashhad.workers.dev/89888eea-1485-49cc-a0f3-d44e67550bf4
+https://478a9f2a-0d66-4035-a797-06e9c83c6739.3869fe04-6fcd-4ad4-a8f4-40582f4fa0c4.giize.com/bamboo14030706.bamboomashhad.workers.dev/89888eea-1485-49cc-a0f3-d44e67550bf4?sub
+https://478a9f2a-0d66-4035-a797-06e9c83c6739.3869fe04-6fcd-4ad4-a8f4-40582f4fa0c4.giize.com/bamboo14030706.bamboomashhad.workers.dev/89888eea-1485-49cc-a0f3-d44e67550bf4?b64
+https://478a9f2a-0d66-4035-a797-06e9c83c6739.3869fe04-6fcd-4ad4-a8f4-40582f4fa0c4.giize.com/bamboo14030706.bamboomashhad.workers.dev/89888eea-1485-49cc-a0f3-d44e67550bf4?base64
+https://478a9f2a-0d66-4035-a797-06e9c83c6739.3869fe04-6fcd-4ad4-a8f4-40582f4fa0c4.giize.com/bamboo14030706.bamboomashhad.workers.dev/89888eea-1485-49cc-a0f3-d44e67550bf4?clash
+https://478a9f2a-0d66-4035-a797-06e9c83c6739.3869fe04-6fcd-4ad4-a8f4-40582f4fa0c4.giize.com/bamboo14030706.bamboomashhad.workers.dev/89888eea-1485-49cc-a0f3-d44e67550bf4?sb
+https://478a9f2a-0d66-4035-a797-06e9c83c6739.3869fe04-6fcd-4ad4-a8f4-40582f4fa0c4.giize.com/bamboo14030706.bamboomashhad.workers.dev/89888eea-1485-49cc-a0f3-d44e67550bf4?singbox
+vless://89888eea-1485-49cc-a0f3-d44e67550bf4@visa.cn:80?encryption=none&security=&sni=bamboo14030706.bamboomashhad.workers.dev&fp=randomized&type=ws&host=bamboo14030706.bamboomashhad.workers.dev&path=%2F%3Fed%3D2560#edgetunnel
+- type: vless
+  name: edgetunnel
+  server: visa.cn
+  port: 80
+  uuid: 89888eea-1485-49cc-a0f3-d44e67550bf4
+  network: ws
+  tls: false
+  udp: false
+  sni: bamboo14030706.bamboomashhad.workers.dev
+  client-fingerprint: randomized
+  ws-opts:
+    path: "/?ed=2560"
+    headers:
+      host: bamboo14030706.bamboomashhad.workers.dev
+vless://89888eea-1485-49cc-a0f3-d44e67550bf4@visa.cn:80?encryption=none&security=&sni=bamboo14030706.bamboomashhad.workers.dev&fp=randomized&type=ws&host=bamboo14030706.bamboomashhad.workers.dev&path=%2F%3Fed%3D2560#edgetunnel
